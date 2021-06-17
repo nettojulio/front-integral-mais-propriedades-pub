@@ -2,9 +2,11 @@
 
 # Exercício de classe 🏫
 
-## Exercício 1
+## Alertas
 
-# CONFERIR TAGS
+Reproduza os elementos presentes no "Exercício 1" do arquivo figma (.fig) encontrado na raiz do projeto.
+
+![exercicio](https://i.imgur.com/PkthX1D.png)
 
 ---
 
@@ -15,4 +17,4 @@ Preencha a checklist para finalizar o exercício:
 - [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 - [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
 
-###### tags: 
+###### tags: `módulo 1` `front-end` `exercício de classe` `HTML` `CSS`
