@@ -1,0 +1,244 @@
+* {
+    margin: 0;
+    padding: 0;;
+}
+
+body {
+    background: #FF7982;
+    box-sizing: content-box;
+}
+
+main{
+    width: auto;
+    height: 2000px;
+    background: #F4F8FD;
+    margin: 130px 130px 0;
+    background-image: url(assets/background.png);
+    background-repeat: no-repeat;
+}
+
+header {
+    padding: 60px;
+}
+
+.box-styled {
+    background: #09183F;
+    opacity: 0.7;
+    box-shadow: 0px 14px 25px -10px rgba(9, 24, 63, 0.17);
+    border-radius: 10px;
+    width: 645px;
+    height: 319px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.texto-sup {
+    color: #ffffff;
+}
+
+h1, h2{
+    font-family: 'Merriweather', serif;
+}
+
+p, a {
+    font-family: 'Mulish', sans-serif;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    padding: 57px 108px 0 108px;
+    display: flex;
+    align-items: center;
+}
+
+.texto-sup p {
+    font-size: 18px;
+    line-height: 28px;
+
+    align-items: center;
+
+    margin: 10px 0 0 0;
+    padding: 10px 58px;
+
+    width: 530px;
+    height: 84px;
+    text-align: left;
+}
+
+.texto-sup a {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    background: #FF8E4F;
+    color: #FFFFFF;
+
+    position: absolute;
+    
+    left: 580px;
+    top: 420px;
+}
+
+.card {
+    width: 501px;
+    height: 666px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+    margin: 90px auto;
+}
+
+.topx{
+    background-image: url(assets/model.png);
+}
+
+.topz{
+    background-image: url(assets/products.png);
+}
+
+h2 {
+    left: 22.11%;
+    right: 23.79%;
+    top: 7.66%;
+    bottom: 78.53%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 46px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    height: 92px;
+    width: 271.0673828125px;
+    left: 110.747314453125px;
+    padding: 30px 120px ;
+
+    border-radius: nullpx;
+
+}
+
+.card p{
+
+    position: absolute;
+    left: 12.21%;
+    right: 12%;
+    top: 25.38%;
+    bottom: 66.82%;
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+
+    height: 52px;
+    width: 379.70526123046875px;
+    left: 61.17474365234375px;
+    top: 810px;
+    left: 490px;
+    border-radius: nullpx;
+
+}
+
+.topx a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 30px;
+
+    position: absolute;
+    width: 132px;
+    height: 42px;
+    left: 620px;
+    top: 910px;
+
+    background: #FFFFFF;
+    border: 1px solid #09183F;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.topz p {
+    position: absolute;
+    left: 12.21%;
+    right: 12%;
+    top: 25.38%;
+    bottom: 66.82%;
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    height: 52px;
+    width: 379.70526123046875px;
+    left: 61.17474365234375px;
+    top: 1570px;
+    left: 490px;
+    border-radius: nullpx;
+}
+
+.topz a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 30px;
+
+    position: absolute;
+    width: 132px;
+    height: 42px;
+    left: 620px;
+    top: 1670px;
+
+    background: #FFFFFF;
+    border: 1px solid #09183F;
+    box-sizing: border-box;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+
+    position: static;
+    left: 22.73%;
+    right: 22.73%;
+    top: 21.43%;
+    bottom: 21.43%;
+
+    width: 132px;
+    height: 42px;
+}
