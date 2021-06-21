@@ -22,8 +22,7 @@ header {
 }
 
 .box-styled {
-    background: #09183F;
-    opacity: 0.7;
+    background: #09183F70;
     box-shadow: 0px 14px 25px -10px rgba(9, 24, 63, 0.17);
     border-radius: 10px;
     width: 645px;
