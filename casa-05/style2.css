@@ -1,114 +1,114 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* outline: #000000 1px dashed; */
 }
 
-body{
-    background-color: #ff7982;
-    padding: 70px 80px 0 80px;
+body {
+  background-color: #ff7982;
+  padding: 70px 80px 0 80px;
 }
-.co-main{
-    background-color: #F4F8FD;
-    padding: 0 0 30px 0;
+
+.co-main {
+  background-color: #f4f8fd;
+  padding: 0 0 30px 0;
 }
- 
+
 .card-principal h1 {
-    font-family: 'Merriweather', serif;
-    font-size: 36px;
-    margin-bottom: 10px;
-    line-height: 46px;
+  font-family: "Merriweather", serif;
+  font-size: 36px;
+  margin-bottom: 10px;
+  line-height: 46px;
 }
 
 .card-secundario h2 {
-    font-family: 'Merriweather', serif;
-    font-size: 26px;
-    line-height: 46px;
-    margin: 0 auto;
+  font-family: "Merriweather", serif;
+  font-size: 26px;
+  line-height: 46px;
+  margin: 0 auto;
 
-    height: 92px;
-    width: 271.0673828125px;
-    left: 110.747314453125px;
-
-
+  height: 92px;
+  width: 271.0673828125px;
+  left: 110.747314453125px;
 }
 
 .card-principal p {
-    font-size: 18px;
-    line-height: 28px;
-    margin: 20px 0 50px 70px;
+  font-size: 18px;
+  line-height: 28px;
+  margin: 20px 0 50px 70px;
 
-    height: 84px;
-    width: 530px;
-    text-align: left;
-
-
+  height: 84px;
+  width: 530px;
+  text-align: left;
 }
 
 .card-secundario p {
-    font-size: 18px;
-    line-height: 28px;
-    margin-bottom: 18px;
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 18px;
 }
 
 .card-principal a {
-    text-decoration: none;
-    background-color: #FF8E4F;
-    border-radius: 50px;
-    color: #FFFFFF;
-    padding: 10px 30px;
-    font-weight: bold;
+  text-decoration: none;
+  background-color: #ff8e4f;
+  border-radius: 50px;
+  color: #ffffff;
+  padding: 10px 30px;
+  font-weight: bold;
 }
 
 .card-secundario a {
-    text-decoration: none;
-    background-color: #ffffff;
-    border-radius: 50px;
-    color: #09183F;
-    border: 1px solid #09183F;
-    padding: 10px 30px;
-    font-weight: bold;
-    margin: 20px 0 0 0;
+  text-decoration: none;
+  background-color: #ffffff;
+  border-radius: 50px;
+  color: #09183f;
+  border: 1px solid #09183f;
+  padding: 10px 30px;
+  font-weight: bold;
+  margin: 20px 0 0 0;
 }
 
-p, a {
-    font-family: 'Mulish', sans-serif;
+p,
+a {
+  font-family: "Mulish", sans-serif;
 }
 
 .card-principal {
-    padding: 55px;
-    max-width: 645px;
-    margin: 0 auto;
-    background-color: #09183F70;
-    box-shadow: 0px 14px 25px -10px rgba(9, 24, 63, 0.17);
-    border-radius: 10px;
-    color: #FFFFFF;
-    text-align: center;
+  padding: 55px;
+  max-width: 645px;
+  margin: 0 auto;
+  background-color: #09183f70;
+  box-shadow: 0px 14px 25px -10px rgba(9, 24, 63, 0.17);
+  border-radius: 10px;
+  color: #ffffff;
+  text-align: center;
 }
 
 .card-secundario {
-    /* padding: 55px; */
-    margin: 0 auto;
-    text-align: center;
+  /* padding: 55px; */
+  margin: 0 auto;
+  text-align: center;
 
-    background-color: #FFFFFF;
-    color: #000000;
-    max-width: 500px;
-    border-radius: 5px;
-    margin-top: 60px;
+  background-color: #ffffff;
+  color: #000000;
+  max-width: 500px;
+  border-radius: 5px;
+  margin-top: 60px;
 }
 
 .card-secundario .conteudo-secundario {
-    padding: 30px 0px 0px;
+  padding: 30px 0px 0px;
 }
 
 img {
-    padding: 40px 0px 0px;
+  padding: 40px 0px 0px;
 }
 
 .bg {
-    background-image: url(assets/background.png);
-    background-position: top;
-    padding: 55px 0;
-    margin: 0 0 70px 0;
-    background-size: cover;
+  background-image: url(assets/background.png);
+  background-position: top;
+  padding: 55px 0;
+  margin: 0 0 70px 0;
+  background-size: cover;
 }
