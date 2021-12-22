@@ -4,6 +4,8 @@
 
 ## Post de Blog
 
+<https://front-integral-mais-propriedades-pub-classe-03.vercel.app/>
+
 Reproduza os elementos presentes no "Exercício 3" do arquivo figma (.fig) encontrado na raiz do projeto.
 
 ![exercicio](https://i.imgur.com/W3G7ddU.png)

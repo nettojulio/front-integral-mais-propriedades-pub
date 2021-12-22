@@ -4,6 +4,8 @@
 
 ## Loja de presentes
 
+<https://front-integral-mais-propriedades-pub-casa-05.vercel.app/>
+
 Reproduza os elementos presentes no "Exercício 5" do arquivo figma (.fig) encontrado na raiz do projeto.
 
 ![exercicio](https://i.imgur.com/UFhSgi5.png)

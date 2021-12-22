@@ -4,6 +4,8 @@
 
 ## Card de perfil
 
+<https://front-integral-mais-propriedades-pub-casa-04.vercel.app/>
+
 Reproduza os elementos presentes no "Exercício 4" do arquivo figma (.fig) encontrado na raiz do projeto.
 
 ![exercicio](https://i.imgur.com/4kdlfeO.png)

@@ -4,6 +4,8 @@
 
 ## Newsletter
 
+<https://front-integral-mais-propriedades-pub-classe-02.vercel.app/>
+
 Reproduza os elementos presentes no "Exercício 2" do arquivo figma (.fig) encontrado na raiz do projeto.
 
 ![exercicio](https://i.imgur.com/KMqyqKX.png)
